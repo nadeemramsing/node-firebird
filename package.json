@@ -1,6 +1,6 @@
 {
-    "name": "node-firebird",
-    "version": "0.9.10",
+    "name": "@nadeemramsing/node-firebird",
+    "version": "0.9.11",
     "description": "Pure JavaScript and Asynchronous Firebird client for Node.js.",
     "keywords": [
         "firebird",
@@ -8,10 +8,10 @@
         "rdbms",
         "sql"
     ],
-    "homepage": "https://github.com/hgourvest/node-firebird",
+    "homepage": "https://github.com/nadeemramsing/node-firebird",
     "repository": {
         "type": "git",
-        "url": "https://github.com/hgourvest/node-firebird"
+        "url": "https://github.com/nadeemramsing/node-firebird"
     },
     "author": {
         "name": "Henri Gourvest",
@@ -19,14 +19,15 @@
     },
     "contributors": [
         "Popa Marius Adrian <mapopa@gmail.com>",
-        "Peter Širka <petersirka@gmail.com>"
+        "Peter Širka <petersirka@gmail.com>",
+        "Nadeem Ramsing <nadeem.ramsing@gmail.com>"
     ],
     "main": "./lib",
     "types": "./lib/index.d.ts",
     "licenses": [
         {
             "type": "MPL-2.0",
-            "url": "https://github.com/hgourvest/node-firebird/blob/master/LICENSE"
+            "url": "https://github.com/nadeemramsing/node-firebird/blob/master/LICENSE"
         }
     ],
     "scripts": {
